@@ -1,0 +1,22 @@
+Resposta = Levando em consideração a velocidade média dos veículos e o tempo gasto no pedágio, podemos estipular que: 
+
+110km/h = 30m/s
+80km/h = 22m/s
+
+Carro = 0 + 30t
+Caminhão = 100.000 - 22t
+
+Carro = Caminhão
+30t = 100.000 - 22t
+52t = 100.000
+t = 1923s = 32min
+
+10min de pedágio = 600s
+
+Caminhão = 100.000 - 22(1923 + 600s)
+Caminhão = 100.000 - 55.506
+Caminhão = 44.494m = 44km
+
+O encontro ocorrerá a 44km de Franca, logo o carro estará mais perto de Ribeirão Preto.
+
+
